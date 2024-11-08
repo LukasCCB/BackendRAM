@@ -9,6 +9,8 @@
 
 ## Rick and Morty API
 
+[Run in Postman](https://www.postman.com/webzow/rick-and-morty-api/request/tughxhj/show-character)
+
 ## Install
 
 * Copy env.example to .env
@@ -28,7 +30,6 @@ php artisan test
 /v1/characters?name=Rick&status=Alive&gender=Male&species=Human
 /v1/characters/{id}
 ```
-
 
 ## Resources
 
